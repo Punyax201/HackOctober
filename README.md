@@ -11,4 +11,4 @@ Python, Django , HTML , CSS , Bootstrap , GTTS
 
 # Demo Video
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=CNHgCQB96hA&t=6s&ab_channel=BrijPatel)
+[![Watch the video](https://static.toiimg.com/photo/75256648.cms)](https://www.youtube.com/watch?v=CNHgCQB96hA&t=6s&ab_channel=BrijPatel)
